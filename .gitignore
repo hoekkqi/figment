@@ -1,0 +1,8 @@
+node_modules/
+.next/build*
+.next/cache/*
+.next/static/*
+.next/server/*
+.next/*
+.vscode/
+config/
